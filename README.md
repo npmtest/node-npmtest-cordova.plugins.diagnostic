@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-cordova.plugins.diagnostic/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-cordova.plugins.diagnostic/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-cordova.plugins.diagnostic/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-cordova.plugins.diagnostic/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cordova.plugins.diagnostic/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cordova.plugins.diagnostic/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-cordova.plugins.diagnostic/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-cordova.plugins.diagnostic/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cordova.plugins.diagnostic/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cordova.plugins.diagnostic/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-cordova.plugins.diagnostic/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-cordova.plugins.diagnostic/build/coverage.html/index.html)
 
@@ -90,7 +90,8 @@
     },
     "scripts": {},
     "types": "./cordova.plugins.diagnostic.d.ts",
-    "version": "3.5.0"
+    "version": "3.5.0",
+    "bin": {}
 }
 ```
 
